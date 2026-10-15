@@ -2,19 +2,6 @@
 
 Un jeu classique du pendu développé en C dans le cadre d'un projet EPITECH.
 
-## About
-
-Jeu du Pendu est une implémentation en C d'un jeu de lettres en terminal, centrée sur la robustesse, la gestion d'erreurs et le respect des contraintes de développement EPITECH.
-
-## Topics
-
-- c
-- hangman
-- terminal-game
-- epitech
-- tty
-- stumper
-
 ## Contexte : Le Stumper EPITECH
 
 Ce projet a été réalisé dans le cadre d'une épreuve appelée "stumper", une évaluation barrage conditionnant le passage en deuxième année à EPITECH. Le stumper se caractérise par :
